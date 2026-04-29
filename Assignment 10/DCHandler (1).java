@@ -1,4 +1,4 @@
-package com.anshumaan;
+package com.ashrith;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
